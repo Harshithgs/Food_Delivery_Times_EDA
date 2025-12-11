@@ -86,9 +86,5 @@ Explored how Delivery Time changes with:
 ### Correlation Analysis
 Heatmaps were used to understand relationships between numeric variables.
 
----
 
-## 🧼 Cleaned Dataset
-The cleaned dataset is saved as:
-`cleaned_food_delivery.csv`
 
