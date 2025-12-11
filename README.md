@@ -92,19 +92,3 @@ Heatmaps were used to understand relationships between numeric variables.
 The cleaned dataset is saved as:
 `cleaned_food_delivery.csv`
 
-
-## 📁 How to Run
-
-Install required packages:
-
-```
-pip install pandas numpy matplotlib seaborn
-```
-
-Start Jupyter Notebook:
-
-```
-jupyter notebook
-```
-
-Open `EDA_Project_Harshith.ipynb` and run all cells.
